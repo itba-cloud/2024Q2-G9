@@ -1,0 +1,5 @@
+setuptools
+boto3
+cognitojwt
+aws-lambda-powertools[tracer,validation]~=2.43.1
+pydantic~=2.9.2

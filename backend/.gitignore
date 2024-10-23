@@ -1,0 +1,9 @@
+.idea/./*
+.bundle/
+.deps/
+bundle.zip
+.pip_cache/
+.venv/
+__pycache__/
+Pipfile
+venv/*
